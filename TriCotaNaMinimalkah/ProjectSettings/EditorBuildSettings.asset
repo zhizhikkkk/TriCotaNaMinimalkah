@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Bedroom.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 48ff945e576a7294588f5751e0679b4d
+  - enabled: 1
+    path: Assets/Scenes/KillAnts.unity
+    guid: 95f6f77d34fb5074c9b6289aa037411e
+  - enabled: 1
+    path: Assets/Scenes/Kitchen.unity
+    guid: f33068bd372bd484887889523b106672
+  - enabled: 1
+    path: Assets/Scenes/CollectIngridients.unity
+    guid: 0b161b893e3063d44a096aa1ad92b166
+  m_configObjects: {}
